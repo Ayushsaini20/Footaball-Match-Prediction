@@ -8,5 +8,6 @@ We are finding the likelihood and probability of winning of teams.
 <img width="365" alt="Screenshot 2023-10-20 at 6 32 40 PM" src="https://github.com/Ayushsaini20/Footaball-Match-Prediction/assets/73630171/10fe3661-0d09-4d69-a7f6-4baebd8a71d7">
 <img width="782" alt="Screenshot 2023-10-20 at 6 31 56 PM" src="https://github.com/Ayushsaini20/Footaball-Match-Prediction/assets/73630171/86a58f99-123e-45e0-b9a4-f78ce6048010">
 <img width="1193" alt="Screenshot 2023-10-20 at 6 35 09 PM" src="https://github.com/Ayushsaini20/Footaball-Match-Prediction/assets/73630171/80904e31-3e2a-4101-845a-0a376fd93c4e">
+<img width="991" alt="Screenshot 2023-10-20 at 6 35 29 PM" src="https://github.com/Ayushsaini20/Footaball-Match-Prediction/assets/73630171/08425065-03f3-49a4-9092-024dda103964">
 
 
